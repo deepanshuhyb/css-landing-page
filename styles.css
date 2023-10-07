@@ -335,3 +335,29 @@ ul.numbered-items{
     padding-bottom: 3rem;
     margin-top: -3rem;
 }
+.email{
+    border-radius: 5em;
+    padding: 9px;
+    margin-right: 10px;
+}
+.last{
+    /* display: grid; */
+    position: relative;
+}
+.last p{
+    /* display: grid; */
+    position: absolute;
+    /* align-items: flex-end; */
+    /* align-items: end; */
+    right: 20%;
+    bottom: 0;
+    font-size: 10px;
+    /* font: var(--fs-300); */
+}
+.footer-bar{
+    display: grid;
+}
+.footer-nav{
+    display: grid;
+
+}
