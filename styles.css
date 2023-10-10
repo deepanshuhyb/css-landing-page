@@ -357,6 +357,11 @@ ul.numbered-items{
 .footer-bar{
     display: grid;
 }
-.footer-nav{
+
+ul.footer-nav{
     display: grid;
+    gap: 1em;
+    font-size: var(--fs-300);
+    font-family: var(--ff-primary);
+    font-weight: var(--fw-bold);
 }
